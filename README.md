@@ -1,3 +1,5 @@
+> Random, minimalist "webapp" für @Psysician um docker zu lernen
+
 ## Setup
 `image.jpg` und `Rocket.toml` müssen im cwd sein.
 
